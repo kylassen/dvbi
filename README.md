@@ -1,2 +1,2 @@
 # dvbi
-I am looking forward to lean more
+I am looking forward to learn more
